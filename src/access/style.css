@@ -1,0 +1,8 @@
+body {
+  background-color: black;
+  color: white;
+  user-select: none;
+}
+.herder {
+  -webkit-app-region: drag;
+}

@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@electron/rebuild": "^3.7.1",
+    "electron": "^35.0.2"
+  },
+  "name": "learn electron js",
+  "version": "1.0.0",
+  "main": "./src/controller/main.js",
+  "type": "module",
+  "dependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
